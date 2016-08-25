@@ -4960,8 +4960,8 @@ a.list-group-item.active > .badge,
   max-width: 100%;
   padding: 4px;
   line-height: 1.428571429;
-  background-color: #ffffff;
-  border: 1px solid #dddddd;
+  background-color: #020202;
+  border: .25px solid #848484;
   border-radius: 4px;
   -webkit-transition: all 0.2s ease-in-out;
           transition: all 0.2s ease-in-out;

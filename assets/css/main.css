@@ -123,8 +123,19 @@ a:after {
 
 /* Footer Wrap */
 
+footer {
+  background-color: #f2f2f2;
+    font-family: 'EB Garamond', serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #555;
+
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+}
+
 #f {
-	background: #1a1a1a;
+	background: #0a0a0a;
 	padding-top: 70px;
 	padding-bottom: 70px;
 	text-align: center
